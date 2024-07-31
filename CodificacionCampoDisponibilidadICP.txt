@@ -1,0 +1,2 @@
+S-ICP instalado
+N-ICP no instalado
